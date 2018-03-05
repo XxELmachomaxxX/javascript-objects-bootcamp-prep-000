@@ -6,5 +6,5 @@ function updatePlaylist(red, taylorswift, shakeitoff) {
 }
 
 function removeFromPlaylist(playlist, taylorswift) {
-  
+  delete playlist.red
 }

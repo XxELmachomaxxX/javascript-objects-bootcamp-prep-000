@@ -4,3 +4,7 @@ function updatePlaylist(red, taylorswift, shakeitoff) {
   red = playlist()
   return updatePlaylist
 }
+
+function removeFromPlaylist() {
+  
+}

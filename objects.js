@@ -5,6 +5,6 @@ function updatePlaylist(red, taylorswift, shakeitoff) {
   return updatePlaylist
 }
 
-function removeFromPlaylist() {
+function removeFromPlaylist(playlist, taylorswift) {
   
 }

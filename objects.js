@@ -1,1 +1,1 @@
-var playlist = Object();
+var playlist = Object("taylor swift", "shake it off");
